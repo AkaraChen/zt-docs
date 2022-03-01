@@ -6,11 +6,11 @@ theme:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
+        name: 切换到暗色模式
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: 切换到亮色模式
 
 
 docs_dir: docs
@@ -19,5 +19,6 @@ nav:
   - what.md
   - support.md
   - setup.md
+  - benefit.md
 
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://github.com/zhutianproject/docs
